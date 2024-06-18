@@ -20,13 +20,9 @@
 -   ⭐ Deployment for FREE
 
 ## Screenshots
-    ![Screenshot 1](./screenshots/Screenshot (240).png)
-    ![Screenshot 2](./screenshots/Screenshot (242).png)
-    ![Screenshot 3](./screenshots/Screenshot%20(243).png)
-    ![Screenshot 4](./screenshots/Screenshot%20(244).png)
-    ![Screenshot 5](./screenshots/Screenshot%20(245).png)
-    ![Screenshot 6](./screenshots/Screenshot%20(246).png)
-    ![Screenshot 7](./screenshots/Screenshot%20(247).png)
+    ![Screenshot 1](./Images/1.png)
+    ![Screenshot 2](./Images/2.png)
+    ![Screenshot 3](./Images/3.png)
 
 ### Created By- Ankit Raj
 
