@@ -19,10 +19,8 @@
 -   🔊 Notification sounds
 -   ⭐ Deployment for FREE
 
-## Screenshots
-    ![Screenshot of App](./Images/1.png)
-    ![Screenshot 2](./Images/2.png)
-    ![Screenshot 3](./Images/3.png)
+## Screenshot
+![Screenshot of App](../Images/1.png)
 
 ### Created By- Ankit Raj
 
