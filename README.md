@@ -20,13 +20,13 @@
 -   ⭐ Deployment for FREE
 
 ## Screenshot
-![Screenshot of App](./Images/1.png)
-![Screenshot of App](./Images/2.png)
+![Screenshot of App](./Images/7.png)
+![Screenshot of App](./Images/6.png)
 ![Screenshot of App](./Images/3.png)
 ![Screenshot of App](./Images/4.png)
 ![Screenshot of App](./Images/5.png)
-![Screenshot of App](./Images/6.png)
-![Screenshot of App](./Images/7.png)
+![Screenshot of App](./Images/1.png)
+![Screenshot of App](./Images/2.png)
 
 ### Created By- Ankit Raj
 
